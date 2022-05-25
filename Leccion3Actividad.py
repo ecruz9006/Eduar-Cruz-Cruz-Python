@@ -28,4 +28,3 @@ valor2 = input("Ingrese un número: ")
 
 calculadora = calculadora(valor1,valor2)
 
-calculadora.dividir()
